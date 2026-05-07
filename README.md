@@ -1,4 +1,4 @@
-# OOP-Project-Console-Application-Result-management
+# OOP-Project
 # 📊 Result Management System
 
 A simple and efficient Result Management System developed to manage student records and display results easily.This project was developed as a college assignment to practically implement the core concepts of object oriented programming and result management logic.
